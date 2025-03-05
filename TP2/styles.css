@@ -1,0 +1,116 @@
+.ensa {
+  width: 100px;
+}
+.usms {
+  width: 130px;
+  float: right;
+}
+.titre {
+  text-align: center;
+  color: rgb(44, 25, 164);
+}
+.NOM {
+  color: rgb(5, 192, 46);
+}
+.filiere {
+  color: rgb(5, 192, 46);
+  padding-left: 40px;
+}
+.nbr {
+  color: rgb(232, 11, 11);
+  padding-left: 40px;
+}
+.titre2 {
+  text-align: center;
+  color: red;
+  text-decoration: underline;
+}
+.tableau {
+  border: 4px solid blue;
+  border-collapse: collapse;
+  width: 100%;
+}
+.tete {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+.heure {
+  border: 2px solid blue;
+  color: rgb(235, 137, 17);
+  background-color: #fafcfc;
+}
+.jour {
+  text-align: center;
+  color: rgb(235, 137, 17);
+  background-color: #fafcfc;
+  border: 2px solid blue;
+  width: 8%;
+}
+.cours {
+  border: 2px solid blue;
+  text-align: center;
+  color: rgb(235, 137, 17);
+  background-color: #ebf8d1;
+  width: 20%;
+  vertical-align: middle;
+}
+.prof_salle {
+  border: 2px solid blue;
+  text-align: center;
+  color: rgb(15, 44, 10);
+  background-color: #ebf8d1;
+  width: 4.5%;
+}
+.heure_vend {
+  border: 0px solid blue;
+  transform: rotate(90deg);
+  color: rgb(235, 17, 17);
+}
+.vide {
+  border: 2px solid blue;
+  text-align: center;
+  color: rgb(235, 17, 17);
+  background-color: rgb(255, 255, 255);
+}
+.vide-prof_salle {
+  border: 2px solid blue;
+  text-align: center;
+  color: rgb(15, 44, 10);
+  background-color: rgb(255, 255, 255);
+}
+.cours a {
+  color: rgb(235, 137, 17);
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  padding: 8px 4px;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.cours a:hover {
+  text-decoration: underline;
+  background-color: #e0f0c0;
+  font-weight: bold;
+  transform: scale(1.02);
+}
+.prof_salle a {
+  color:  rgb(15, 44, 10);
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  padding: 8px 4px;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.prof_salle a:hover {
+  text-decoration: underline;
+  background-color: #e0f0c0;
+  font-weight: bold;
+  transform: scale(1.02);
+}
