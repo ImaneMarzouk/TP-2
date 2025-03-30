@@ -1,2 +1,2 @@
 # TP-2
-EMPLOI DU TEMPS GI1 (Semestre 2)
+EMPLOI DU TEMPS GI1 (Semestre 2) en HTML & CSS
